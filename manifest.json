@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Test Extension",
+  "name": "Test Extension IOEGCR",
   "version": "1.0.0",
   "content_scripts": [
     {
@@ -8,5 +8,5 @@
       "css": ["primevideo.css"],
       "matches": ["https://www.primevideo.com/*"]
     }
-  ],
+  ]
 }
